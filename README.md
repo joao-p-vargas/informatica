@@ -4,7 +4,7 @@ Repositorio para trabalhos de informatica
 
 ## Índice
 
-Primeira atividade- Apresentação em grupo.
+Primeira atividade- Apresentação em grupo no PowerPoint.
 
 [SHOW DO MILHÃO - FATEC.pptx](https://github.com/user-attachments/files/17078002/SHOW.DO.MILHAO.-.FATEC.pptx)
 
@@ -21,4 +21,5 @@ Fórmulas do excel usadas, maxímo, mínimo, média, médiases, maior, menor, co
 [ultimas-4-semanas-gasolina-etanol, trabalho (1).xlsx](https://github.com/user-attachments/files/17078038/ultimas-4-semanas-gasolina-etanol.trabalho.1.xlsx)
 
 ### Tecnologias Utilizadas
-Exel
+
+Exel, PowerPoint
