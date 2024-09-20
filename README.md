@@ -1,4 +1,4 @@
-# Aprendizado de informatica
+# Informatica
 
 Repositorio para trabalhos de informatica
 
