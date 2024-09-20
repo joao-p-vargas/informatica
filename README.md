@@ -10,9 +10,9 @@ Primeira atividade- Apresentação em grupo.
 
 Segunda atividade- uso dos dados abertos para montar uma planilha no exel.
 
-[quantidade de alunos estrangeiros 2023 (1).xlsx](https://github.com/user-attachments/files/17078025/quantidade.de.alunos.estrangeiros.2023.1.xlsx)
-
 Fórmulas do exel usadas, somase, cont.se, índice, corresp e concat
+
+[quantidade de alunos estrangeiros 2023 (1).xlsx](https://github.com/user-attachments/files/17078025/quantidade.de.alunos.estrangeiros.2023.1.xlsx)
 
 Terceira atividade- Uso de dados abertos de nossa escolha para montar uma panilha no exel.
 
