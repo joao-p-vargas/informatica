@@ -20,6 +20,10 @@ Fórmulas do excel usadas, maxímo, mínimo, média, médiases, maior, menor, co
 
 [ultimas-4-semanas-gasolina-etanol, trabalho.xlsx](https://github.com/user-attachments/files/17081379/ultimas-4-semanas-gasolina-etanol.trabalho.xlsx)
 
+4º atividade- uso dos dados abertos para montar um power BI.
+
+https://github.com/joao-p-vargas/informatica/blob/main/ALUNOS%20ESTRANGEIROS.pbix
+
 ### Tecnologias Utilizadas
 
 Exel, PowerPoint
