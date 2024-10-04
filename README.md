@@ -22,6 +22,7 @@ Fórmulas do excel usadas, maxímo, mínimo, média, médiases, maior, menor, co
 
 4º atividade- uso dos dados abertos para montar um power BI.
 
+https://github.com/joao-p-vargas/informatica/blob/main/ALUNOS%20ESTRANGEIROS.pbix
 ![image](https://github.com/user-attachments/assets/71e3540b-3f72-4f3a-8245-2853fa3ab4e9)
 
 
