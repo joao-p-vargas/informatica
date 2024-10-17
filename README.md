@@ -2,7 +2,9 @@
 
 Repositorio para trabalhos de informatica
 
-## Índice
+##Índice
+
+##Exel
 
 1º atividade- Apresentação em grupo no PowerPoint.
 
@@ -19,6 +21,8 @@ Fórmulas do exel usadas, somase, cont.se, índice, corresp e concat
 Fórmulas do excel usadas, maxímo, mínimo, média, médiases, maior, menor, cont.se, cont.ses, índice e corrresp.
 
 [ultimas-4-semanas-gasolina-etanol, trabalho.xlsx](https://github.com/user-attachments/files/17081379/ultimas-4-semanas-gasolina-etanol.trabalho.xlsx)
+
+##PowerBI
 
 4º atividade- uso dos dados abertos para montar um power BI
 
