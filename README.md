@@ -41,6 +41,15 @@ https://github.com/joao-p-vargas/informatica/commit/c67b1220d5cae484cce57b066ce4
 
 ![image](https://github.com/user-attachments/assets/613a2a87-2197-49c3-9e32-4456b3b85500)
 
+6º atividade - Usar um PowerBI pronto para estabelecer metas da quantidade de itens vendidos.
+
+![image](https://github.com/user-attachments/assets/0cc103bd-cb03-471c-9948-e348dc01b82e)
+
+
+7º atividade - Usar o PowerBI da 4º atividade para estabelecer metas.
+
+![image](https://github.com/user-attachments/assets/5df86402-2a74-44a3-b342-dd1979683304)
+
 ### Tecnologias Utilizadas
 
 Exel, PowerPoint e PowerBI
