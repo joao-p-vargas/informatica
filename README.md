@@ -39,8 +39,7 @@ https://github.com/joao-p-vargas/informatica/commit/c67b1220d5cae484cce57b066ce4
 
 ![image](https://github.com/user-attachments/assets/b9bdce83-bdec-4b6f-934d-6b926609892d)
 
-![image](https://github.com/user-attachments/assets/2ae0f267-c321-4167-9f09-a924a341023b)
-
+![image](https://github.com/user-attachments/assets/613a2a87-2197-49c3-9e32-4456b3b85500)
 
 ### Tecnologias Utilizadas
 
