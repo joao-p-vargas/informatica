@@ -30,8 +30,7 @@ Fórmulas do excel usadas, maxímo, mínimo, média, médiases, maior, menor, co
 
 https://github.com/joao-p-vargas/informatica/raw/refs/heads/main/ALUNOS%20ESTRANGEIROS.pbix
 
-![image](https://github.com/user-attachments/assets/71e3540b-3f72-4f3a-8245-2853fa3ab4e9)
-![image](https://github.com/user-attachments/assets/d4c84b76-ab72-4bda-a210-d565af35099f)
+![image](https://github.com/user-attachments/assets/382c0450-9eb2-4a89-a629-b3a0015bd8d0)
 
 5º atividade - Uso de dados abertos de nossa escolha para montar um dashboard no power BI.
 
@@ -43,7 +42,7 @@ https://github.com/joao-p-vargas/informatica/commit/c67b1220d5cae484cce57b066ce4
 
 ![image](https://github.com/user-attachments/assets/0cc103bd-cb03-471c-9948-e348dc01b82e)
 
-https://github.com/joao-p-vargas/informatica/blob/main/filiaisAtividade.pbix
+https://github.com/joao-p-vargas/informatica/raw/refs/heads/main/filiaisAtividade.pbix
 
 7º atividade - Usar o PowerBI da 4º atividade para estabelecer metas.
 
