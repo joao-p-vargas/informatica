@@ -30,13 +30,13 @@ Fórmulas do excel usadas, maxímo, mínimo, média, médiases, maior, menor, co
 
 https://github.com/joao-p-vargas/informatica/raw/refs/heads/main/ALUNOS%20ESTRANGEIROS.pbix
 
-![image](https://github.com/user-attachments/assets/ed80dc2e-347f-43ba-b359-2d83788c4da4)
+![image](https://github.com/user-attachments/assets/63ccc022-bea5-4d87-a5d3-f89f4a588478)
 
 5º atividade - Uso de dados abertos de nossa escolha para montar um dashboard no power BI.
 
 https://github.com/joao-p-vargas/informatica/commit/c67b1220d5cae484cce57b066ce4dee7ac932481
 
-![image](https://github.com/user-attachments/assets/63ccc022-bea5-4d87-a5d3-f89f4a588478)
+![image](https://github.com/user-attachments/assets/ed80dc2e-347f-43ba-b359-2d83788c4da4)
 
 6º atividade - Usar um PowerBI pronto para estabelecer metas da quantidade de itens vendidos.
 
