@@ -30,7 +30,7 @@ Fórmulas do excel usadas, maxímo, mínimo, média, médiases, maior, menor, co
 
 https://github.com/joao-p-vargas/informatica/raw/refs/heads/main/ALUNOS%20ESTRANGEIROS.pbix
 
-![image](https://github.com/user-attachments/assets/382c0450-9eb2-4a89-a629-b3a0015bd8d0)
+![image](https://github.com/user-attachments/assets/ed80dc2e-347f-43ba-b359-2d83788c4da4)
 
 5º atividade - Uso de dados abertos de nossa escolha para montar um dashboard no power BI.
 
