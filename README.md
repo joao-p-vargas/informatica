@@ -28,13 +28,15 @@ Fórmulas do excel usadas, maxímo, mínimo, média, médiases, maior, menor, co
 
 4º atividade- uso dos dados abertos para montar um dashboard no power BI.
 
+Visualizar: https://app.powerbi.com/view?r=eyJrIjoiMDc1MzdjYjItNjBmMS00MzlkLTgyMzYtZDRkOTZkZTc3ZjNkIiwidCI6ImNmNzJlMmJkLTdhMmItNDc4My1iZGViLTM5ZDU3YjA3Zjc2ZiIsImMiOjR9
+
 https://github.com/joao-p-vargas/informatica/raw/refs/heads/main/ALUNOS%20ESTRANGEIROS.pbix
 
 ![image](https://github.com/user-attachments/assets/cce8b91c-5d38-408b-9fad-22ce9adcbce7)
 
 5º atividade - Uso de dados abertos de nossa escolha para montar um dashboard no power BI.
 
-Visualizar: https://app.powerbi.com/view?r=eyJrIjoiNmI0ZmVmZDUtOTgzYi00OTU1LTk0NTUtM2YxMTk5YTgzMjBlIiwidCI6ImNmNzJlMmJkLTdhMmItNDc4My1iZGViLTM5ZDU3YjA3Zjc2ZiIsImMiOjR9
+Visualizar: [https://app.powerbi.com/view?r=eyJrIjoiNmI0ZmVmZDUtOTgzYi00OTU1LTk0NTUtM2YxMTk5YTgzMjBlIiwidCI6ImNmNzJlMmJkLTdhMmItNDc4My1iZGViLTM5ZDU3YjA3Zjc2ZiIsImMiOjR9](https://app.powerbi.com/view?r=eyJrIjoiZWNiMGQ0ZWUtNTE5Ny00MDdmLTliOGEtZjYyZWJjZTI2YjgzIiwidCI6ImNmNzJlMmJkLTdhMmItNDc4My1iZGViLTM5ZDU3YjA3Zjc2ZiIsImMiOjR9)
 
 Baixar: https://github.com/joao-p-vargas/informatica/raw/refs/heads/main/4%20sem.%20de%20combust%C3%ADvel2.pbix
 
@@ -42,13 +44,15 @@ Baixar: https://github.com/joao-p-vargas/informatica/raw/refs/heads/main/4%20sem
 
 6º atividade - Usar um PowerBI pronto para estabelecer metas da quantidade de itens vendidos.
 
-https://github.com/joao-p-vargas/informatica/raw/refs/heads/main/filiaisAtividade.pbix
+Visualizar: https://app.powerbi.com/view?r=eyJrIjoiMDljYmZmNmItNTI0MS00ZWE3LTk2MDktZTgyMDRkMTBhNjliIiwidCI6ImNmNzJlMmJkLTdhMmItNDc4My1iZGViLTM5ZDU3YjA3Zjc2ZiIsImMiOjR9
+
+Baixar: https://github.com/joao-p-vargas/informatica/raw/refs/heads/main/filiaisAtividade.pbix
 
 ![image](https://github.com/user-attachments/assets/51af0448-ee1f-4522-8f51-e1619c2cd567)
 
 7º atividade - Usar o PowerBI da 4º atividade para estabelecer metas.
 
-Visualizar: https://app.powerbi.com/view?r=eyJrIjoiNmI0ZmVmZDUtOTgzYi00OTU1LTk0NTUtM2YxMTk5YTgzMjBlIiwidCI6ImNmNzJlMmJkLTdhMmItNDc4My1iZGViLTM5ZDU3YjA3Zjc2ZiIsImMiOjR9
+Visualizar: [https://app.powerbi.com/view?r=eyJrIjoiNmI0ZmVmZDUtOTgzYi00OTU1LTk0NTUtM2YxMTk5YTgzMjBlIiwidCI6ImNmNzJlMmJkLTdhMmItNDc4My1iZGViLTM5ZDU3YjA3Zjc2ZiIsImMiOjR9](https://app.powerbi.com/view?r=eyJrIjoiZWNiMGQ0ZWUtNTE5Ny00MDdmLTliOGEtZjYyZWJjZTI2YjgzIiwidCI6ImNmNzJlMmJkLTdhMmItNDc4My1iZGViLTM5ZDU3YjA3Zjc2ZiIsImMiOjR9)
 
 https://github.com/joao-p-vargas/informatica/raw/refs/heads/main/4%20sem.%20de%20combust%C3%ADvel2.pbix
 
