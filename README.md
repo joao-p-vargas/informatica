@@ -37,9 +37,7 @@ https://github.com/joao-p-vargas/informatica/raw/refs/heads/main/ALUNOS%20ESTRAN
 
 https://github.com/joao-p-vargas/informatica/commit/c67b1220d5cae484cce57b066ce4dee7ac932481
 
-![image](https://github.com/user-attachments/assets/b9bdce83-bdec-4b6f-934d-6b926609892d)
-
-![image](https://github.com/user-attachments/assets/613a2a87-2197-49c3-9e32-4456b3b85500)
+![image](https://github.com/user-attachments/assets/63ccc022-bea5-4d87-a5d3-f89f4a588478)
 
 6º atividade - Usar um PowerBI pronto para estabelecer metas da quantidade de itens vendidos.
 
@@ -51,7 +49,7 @@ https://github.com/joao-p-vargas/informatica/blob/main/filiaisAtividade.pbix
 
 ![image](https://github.com/user-attachments/assets/5df86402-2a74-44a3-b342-dd1979683304)
 
-https://github.com/joao-p-vargas/informatica/blob/main/4%20sem.%20de%20combust%C3%ADvel2.pbix
+https://github.com/joao-p-vargas/informatica/raw/refs/heads/main/4%20sem.%20de%20combust%C3%ADvel2.pbix
 
 ### Tecnologias Utilizadas
 
