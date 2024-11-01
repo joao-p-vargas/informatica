@@ -34,21 +34,21 @@ https://github.com/joao-p-vargas/informatica/raw/refs/heads/main/ALUNOS%20ESTRAN
 
 5º atividade - Uso de dados abertos de nossa escolha para montar um dashboard no power BI.
 
-https://github.com/joao-p-vargas/informatica/commit/c67b1220d5cae484cce57b066ce4dee7ac932481
+https://github.com/joao-p-vargas/informatica/raw/refs/heads/main/4%20sem.%20de%20combust%C3%ADvel2.pbix
 
 ![image](https://github.com/user-attachments/assets/ed80dc2e-347f-43ba-b359-2d83788c4da4)
 
 6º atividade - Usar um PowerBI pronto para estabelecer metas da quantidade de itens vendidos.
 
-![image](https://github.com/user-attachments/assets/0cc103bd-cb03-471c-9948-e348dc01b82e)
+https://github.com/joao-p-vargas/informatica/raw/refs/heads/main/filiaisAtividade.pbix
 
 https://github.com/joao-p-vargas/informatica/raw/refs/heads/main/filiaisAtividade.pbix
 
 7º atividade - Usar o PowerBI da 4º atividade para estabelecer metas.
 
-![image](https://github.com/user-attachments/assets/5df86402-2a74-44a3-b342-dd1979683304)
-
 https://github.com/joao-p-vargas/informatica/raw/refs/heads/main/4%20sem.%20de%20combust%C3%ADvel2.pbix
+
+![image](https://github.com/user-attachments/assets/5df86402-2a74-44a3-b342-dd1979683304)
 
 ### Tecnologias Utilizadas
 
