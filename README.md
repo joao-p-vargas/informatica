@@ -10,11 +10,11 @@ Repositorio para trabalhos de informatica
 
 [SHOW DO MILHÃO - FATEC.pptx](https://github.com/user-attachments/files/17078002/SHOW.DO.MILHAO.-.FATEC.pptx)
 
-### Exel
+### Excel
 
-2º atividade- uso dos dados abertos para montar uma planilha no exel.
+2º atividade- uso dos dados abertos para montar uma planilha no excel.
 
-Fórmulas do exel usadas, somase, cont.se, índice, corresp e concat
+Fórmulas do excel usadas, somase, cont.se, índice, corresp e concat
 
 [quantidade de alunos estrangeiros 2023 (1).xlsx](https://github.com/user-attachments/files/17078025/quantidade.de.alunos.estrangeiros.2023.1.xlsx)
 
