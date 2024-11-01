@@ -34,7 +34,8 @@ https://github.com/joao-p-vargas/informatica/raw/refs/heads/main/ALUNOS%20ESTRAN
 
 5º atividade - Uso de dados abertos de nossa escolha para montar um dashboard no power BI.
 
-https://github.com/joao-p-vargas/informatica/raw/refs/heads/main/4%20sem.%20de%20combust%C3%ADvel2.pbix
+visualizar: https://app.powerbi.com/view?r=eyJrIjoiNmI0ZmVmZDUtOTgzYi00OTU1LTk0NTUtM2YxMTk5YTgzMjBlIiwidCI6ImNmNzJlMmJkLTdhMmItNDc4My1iZGViLTM5ZDU3YjA3Zjc2ZiIsImMiOjR9
+Baixar: https://github.com/joao-p-vargas/informatica/raw/refs/heads/main/4%20sem.%20de%20combust%C3%ADvel2.pbix
 
 ![image](https://github.com/user-attachments/assets/5df86402-2a74-44a3-b342-dd1979683304)
 
