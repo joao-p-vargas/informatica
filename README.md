@@ -34,7 +34,8 @@ https://github.com/joao-p-vargas/informatica/raw/refs/heads/main/ALUNOS%20ESTRAN
 
 5º atividade - Uso de dados abertos de nossa escolha para montar um dashboard no power BI.
 
-visualizar: https://app.powerbi.com/view?r=eyJrIjoiNmI0ZmVmZDUtOTgzYi00OTU1LTk0NTUtM2YxMTk5YTgzMjBlIiwidCI6ImNmNzJlMmJkLTdhMmItNDc4My1iZGViLTM5ZDU3YjA3Zjc2ZiIsImMiOjR9
+Visualizar: https://app.powerbi.com/view?r=eyJrIjoiNmI0ZmVmZDUtOTgzYi00OTU1LTk0NTUtM2YxMTk5YTgzMjBlIiwidCI6ImNmNzJlMmJkLTdhMmItNDc4My1iZGViLTM5ZDU3YjA3Zjc2ZiIsImMiOjR9
+
 Baixar: https://github.com/joao-p-vargas/informatica/raw/refs/heads/main/4%20sem.%20de%20combust%C3%ADvel2.pbix
 
 ![image](https://github.com/user-attachments/assets/5df86402-2a74-44a3-b342-dd1979683304)
@@ -46,6 +47,8 @@ https://github.com/joao-p-vargas/informatica/raw/refs/heads/main/filiaisAtividad
 ![image](https://github.com/user-attachments/assets/51af0448-ee1f-4522-8f51-e1619c2cd567)
 
 7º atividade - Usar o PowerBI da 4º atividade para estabelecer metas.
+
+Visualizar: https://app.powerbi.com/view?r=eyJrIjoiNmI0ZmVmZDUtOTgzYi00OTU1LTk0NTUtM2YxMTk5YTgzMjBlIiwidCI6ImNmNzJlMmJkLTdhMmItNDc4My1iZGViLTM5ZDU3YjA3Zjc2ZiIsImMiOjR9
 
 https://github.com/joao-p-vargas/informatica/raw/refs/heads/main/4%20sem.%20de%20combust%C3%ADvel2.pbix
 
