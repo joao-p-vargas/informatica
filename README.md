@@ -42,7 +42,7 @@ https://github.com/joao-p-vargas/informatica/raw/refs/heads/main/4%20sem.%20de%2
 
 https://github.com/joao-p-vargas/informatica/raw/refs/heads/main/filiaisAtividade.pbix
 
-https://github.com/joao-p-vargas/informatica/raw/refs/heads/main/filiaisAtividade.pbix
+![image](https://github.com/user-attachments/assets/51af0448-ee1f-4522-8f51-e1619c2cd567)
 
 7º atividade - Usar o PowerBI da 4º atividade para estabelecer metas.
 
