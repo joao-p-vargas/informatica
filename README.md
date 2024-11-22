@@ -62,6 +62,11 @@ https://github.com/joao-p-vargas/informatica/raw/refs/heads/main/4%20sem.%20de%2
 
 8ºatividade - Uso do Power App para criar uma ferramenta de registro de estoque
 
+Video: https://github.com/joao-p-vargas/informatica/blob/main/README.md
+
+https://apps.powerapps.com/play/e/2a7526d2-d965-e59d-a3a4-573c813c59e4/a/6d965124-ee9b-4484-a467-8cfb698c9527?tenantId=cf72e2bd-7a2b-4783-bdeb-39d57b07f76f&sourcetime=1732278546690
+
+![image](https://github.com/user-attachments/assets/c804d3b7-a1c1-4be0-b822-673c53ad4656)
 
 ### Tecnologias Utilizadas
 
