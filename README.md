@@ -58,6 +58,11 @@ https://github.com/joao-p-vargas/informatica/raw/refs/heads/main/4%20sem.%20de%2
 
 ![image](https://github.com/user-attachments/assets/5df86402-2a74-44a3-b342-dd1979683304)
 
+Prova - Obtenha um conjunto de dados de sua escolha e explique do que ele se trata.
+
+
+![image](https://github.com/user-attachments/assets/932a8246-bd87-4ffd-a921-ea3ebb4ebf06)
+
 ###PowerApp
 
 8ºatividade - Uso do Power App para criar uma ferramenta de registro de estoque
