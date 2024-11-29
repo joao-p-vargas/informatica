@@ -60,6 +60,9 @@ https://github.com/joao-p-vargas/informatica/raw/refs/heads/main/4%20sem.%20de%2
 
 Prova - Obtenha um conjunto de dados de sua escolha e explique do que ele se trata.
 
+Visualizar: https://app.powerbi.com/view?r=eyJrIjoiM2FmOTFmYWItOGU2Yy00MWMzLTk5NDgtNmQwNWUxYWY3ZTAzIiwidCI6ImNmNzJlMmJkLTdhMmItNDc4My1iZGViLTM5ZDU3YjA3Zjc2ZiIsImMiOjR9
+
+Baixar: https://github.com/joao-p-vargas/informatica/raw/refs/heads/main/Prova%20alunos%20estrangeiros%202020.zip
 
 ![image](https://github.com/user-attachments/assets/932a8246-bd87-4ffd-a921-ea3ebb4ebf06)
 
